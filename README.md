@@ -146,3 +146,4 @@ Pong game with adjustable AI difficulty coded in Python.  Runs locally.
 
     if __name__ == '__main__':
         main()
+![Game: Pong](pong.jpeg)
