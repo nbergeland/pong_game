@@ -1,5 +1,5 @@
-    # pong_game
-    Pong game with adjustable AI difficulty coded in Python.  Runs locally.
+# pong_game
+Pong game with adjustable AI difficulty coded in Python.  Runs locally.
     
     import pygame
     import sys
