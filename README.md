@@ -20,6 +20,7 @@ The entire implementation is contained within a single Jupyter notebook (pong_ga
 The game follows a simple object-oriented architecture with distinct components handling different aspects of gameplay:
 
 ### System Component Diagram
+![Screenshot](scd.png)
 
 ## Key Components
 The implementation consists of these essential components:
@@ -46,17 +47,19 @@ pong_game.ipynb
 
 ## Game Classes
 ### Class Structure Diagram
+![Screenshot](csd.png)
 
 ## Game Flow
 The game follows a standard game loop pattern as illustrated below:
 
 ### Game Loop Flowchart
+![Screenshot](glf.png)
 
 ## Component Interactions
 The following diagram illustrates how the different components interact during gameplay:
 
 ### Component Interaction Diagram
-
+![Screenshot](cid.png)
 
 ## Game Configuration
 The game includes these configurable parameters:
