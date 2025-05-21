@@ -1,6 +1,6 @@
 # pong_game 🏓
 Pong game with adjustable AI difficulty coded in Python.  Runs locally.
-
+![PongGif](https://github.com/user-attachments/assets/b2bb4bf3-ce48-4480-80a5-e1339a968503)
 # Overview
 This document provides a comprehensive technical overview of the Pong game implementation in the repository. It covers the key components, architecture, and interactions between different game elements. For specific implementation details, see Game Implementation.
 
